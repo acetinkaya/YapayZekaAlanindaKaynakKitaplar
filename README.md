@@ -1,4 +1,4 @@
-# YapayZekaAlanindaKaynakKitaplar
+# 🚀 Yapay Zeka Alanında Kaynak Kitaplar
 
 Yapay Zeka ve Makine Öğrenmesi Kaynak Kitapları
 
