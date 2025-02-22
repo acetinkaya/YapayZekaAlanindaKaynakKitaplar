@@ -10,5 +10,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler pull request veya issue açarak paylaşılabilir.
 
+⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
+
+
 
 📌 **Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur.**
