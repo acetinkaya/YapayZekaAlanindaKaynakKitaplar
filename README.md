@@ -10,6 +10,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak** paylaşılabilir.
 
+## Bu kitapları çeşitli kitapçılardan ve yayınevlerinden temin edilebilirsiniz.
 ---
 
 ## 📖 Önerilen Kaynak Kitaplar
@@ -30,6 +31,6 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-📌 **Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur.**
+📌 **Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur.** Bu kitapları çeşitli kitapçılardan ve yayınevlerinden temin edilebilirsiniz.
 
 📢 **Not:** Bu liste yalnızca **eğitim ve akademik amaçlıdır**. Herhangi bir reklam veya sponsorluk içermemektedir.
