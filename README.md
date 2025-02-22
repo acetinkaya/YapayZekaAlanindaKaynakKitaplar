@@ -12,6 +12,6 @@ NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler pull request ve
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
-
+---
 
 📌 **Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur.**
