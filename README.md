@@ -15,6 +15,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ## 📖 Önerilen Kaynak Kitaplar
 
 | 📘 Kitap Adı | Açıklama | ISBN | Link |
+|--------------|---------|------|------|
 
 
 - **[Makine Öğrenmesi Algoritmaları](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)**  
