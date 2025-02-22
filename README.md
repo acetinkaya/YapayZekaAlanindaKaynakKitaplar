@@ -10,7 +10,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak** paylaşılabilir.
 
-
+- **[Makine Öğrenmesi Algoritmaları](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)** – *Yazar Adı (Varsa Ekleyiniz)*  
+  *Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak.*
 
 
 
