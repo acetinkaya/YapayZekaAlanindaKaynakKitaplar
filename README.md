@@ -14,7 +14,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## 📖 Önerilen Kaynak Kitaplar
 
-| 📘 Kitap Adı | Açıklama | ISBN | Link |
+| 📘 Kitap Adı | Açıklama | ISBN No | Kitap Erişim Linki |
 |--------------|---------|------|------|
 
 
