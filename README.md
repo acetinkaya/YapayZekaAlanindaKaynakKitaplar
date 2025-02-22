@@ -15,9 +15,9 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## 📖 Önerilen Kaynak Kitaplar
 
-| 📘 Kitap Adı | Açıklama | ISBN No | Yayın Evi | Erişim Linki |
+| 📘 Kitap Adı | Açıklama | ISBN No | Yayın Evi | Erişim Sayfası |
 |--------------|---------|------|-----------|------|
-| **Makine Öğrenmesi Algoritmaları** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak. | 978-625-371-882-4 | Nobel Akademik Yayıncılık | [   🔗   ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
+| **Makine Öğrenmesi Algoritmaları** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak. | 978-625-371-882-4 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
