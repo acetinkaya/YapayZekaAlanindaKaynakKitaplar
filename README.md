@@ -6,4 +6,4 @@ Bu repo, Yapay Zeka (AI), Makine Öğrenmesi (ML), Derin Öğrenme (DL), Doğal 
 
 Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı kolaylaştırmayı amaçlamaktadır.
 
-Katkıda bulunmak isteyenler için öneri ve 
+Katkıda bulunmak isteyenler için öneri ve güncellemeler pull request veya issue açarak paylaşılabilir.
