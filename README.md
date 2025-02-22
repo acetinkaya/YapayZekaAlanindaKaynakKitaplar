@@ -31,3 +31,5 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ---
 
 📌 **Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur.**
+
+📢 **Not:** Bu liste yalnızca **eğitim ve akademik amaçlıdır**. 
