@@ -16,7 +16,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ## 📖 Önerilen Kaynak Kitaplar
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Evi | Link |
-|--------------|---------|------|-----------|
+|--------------|---------|------|-----------|------|
 | **Makine Öğrenmesi Algoritmaları** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak. | 978-625-371-882-4 |
 
 
