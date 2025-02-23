@@ -4,7 +4,7 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-Bu repo, **Yapay Zeka (YZ), Makine Öğrenmesi (ML), Derin Öğrenme (DL), Doğal Dil İşleme (NLP) ve Bilgisayarlı Görü (CV)** alanlarında **temel ve ileri seviye** kaynak kitapları içermektedir.
+Bu repo, **Yapay Zeka (YZ), Makine Öğrenmesi (MÖ), Derin Öğrenme (DÖ), Doğal Dil İşleme (DDİ) ve Bilgisayarlı Görü (BG)** alanlarında **temel ve ileri seviye** kaynak kitapları içermektedir.
 
 Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı kolaylaştırmayı amaçlamaktadır.
 
