@@ -18,7 +18,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Evi | Erişim Sayfası |
 |--------------|---------|------|-----------|------|
 | **Makine Öğrenmesi Algoritmaları** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak - referans kitabıdır. | 978-625-371-882-4 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
-| **Yapay Zeka ** | YZ kapsamında detaylı ülkeminizin önemli bir kaynak - referans kitabıdır. |  978-975-02-6589-1 | Seçkin Yayınları	| [ Link ](https://www.amazon.com.tr/Yapay-Zeka-Vasif-Nabiyev/dp/9750265890) |
+| **Yapay Zeka (Makine Öğrenmesi, Strateji Oyunları, Örüntü Tanıma, Doğal Dil İşleme)** | YZ kapsamında detaylı ülkeminizin önemli bir kaynak - referans kitabıdır. |  978-975-02-6589-1 | Seçkin Yayınları	| [ Link ](https://www.amazon.com.tr/Yapay-Zeka-Vasif-Nabiyev/dp/9750265890) |
 | **Yapay Zeka Dijital Sistemler ve Uygulamaları** | YZ dahilinde çetitli alanlarda kapsamlı anlatımla önemli bir kaynak - referans kitabıdır. |  978-605-9594-88-2 | Papatya Yayıncılık	| [ Link ](https://www.tdk.com.tr/yapay-zeka-dijital-sistemler-ve-uygulamalari_68620.html) |
 | **Bulanık Mantık ve Python Uygulamaları** | YZ Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak. |  978-605-4827-98-5 | IGU Yayınları	| [ Link ](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987) |
 
