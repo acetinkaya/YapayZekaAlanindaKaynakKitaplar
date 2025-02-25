@@ -28,7 +28,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 2. Prof. Dr. Murat GÖK, "Makine Öğrenmesi Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2024.
 
-4. Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi", Seçkin Yayınları, Ankara, 2021.
+3. Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi", Seçkin Yayınları, Ankara, 2021.
 
 
 
