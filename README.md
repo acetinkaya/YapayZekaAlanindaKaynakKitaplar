@@ -33,7 +33,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 4. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, "100 Sayfada Makine Öğrenmesi Kitabı", Papatya Bilim Yayıncılık, İstanbul, 2020. 
 
-
+5. 
 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
