@@ -17,7 +17,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Evi | Erişim Sayfası |
 |--------------|---------|------|-----------|------|
-| **Makine Düşünebilir mi ve Nasıl Düşünebilir ?** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak - referans kitabıdır. | 978-625-371-882-4 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
+| **Makine Düşünebilir mi ve Nasıl Düşünebilir ?** | Makine öğrenmesi konusunda ülkemizinde yayınlanan ilk çalışmadır. | Erzurum - 1959 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
 | **Makine Öğrenmesi Algoritmaları** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak - referans kitabıdır. | 978-625-371-882-4 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
 | **Yapay Zeka (Makine Öğrenmesi, Strateji Oyunları, Örüntü Tanıma, Doğal Dil İşleme)** | YZ kapsamında detaylı ülkeminizin önemli bir kaynak - referans kitabıdır. |  978-975-02-6589-1 | Seçkin Yayınları	| [ Link ](https://www.amazon.com.tr/Yapay-Zeka-Vasif-Nabiyev/dp/9750265890) |
 | **Yapay Zeka Dijital Sistemler ve Uygulamaları** | YZ dahilinde çetitli alanlarda kapsamlı anlatımla önemli bir kaynak - referans kitabıdır. |  978-605-9594-88-2 | Papatya Yayıncılık	| [ Link ](https://www.tdk.com.tr/yapay-zeka-dijital-sistemler-ve-uygulamalari_68620.html) |
