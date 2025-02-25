@@ -24,6 +24,12 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Bulanık Mantık ve Python Uygulamaları** | YZ Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak. |  978-605-4827-98-5 | IGU Yayınları	| [ Link ](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987) | 5 |
 
 
+1. Ord. Prof. Dr. Cahit ARF,
+
+
+
+
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
