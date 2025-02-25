@@ -30,6 +30,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 3. Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi", Seçkin Yayınları, Ankara, 2021.
 
+4. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, 
+
 
 
 
