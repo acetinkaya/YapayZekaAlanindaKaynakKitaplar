@@ -15,7 +15,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## 📖 Önerilen Kaynak Kitaplar
 
-| 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası |
+| 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|
 | **Makine Düşünebilir mi ve Nasıl Düşünebilir ?** | Makine öğrenmesi konusunda ülkemizinde yayınlanan ilk çalışmadır. | Erzurum - 1959 | Atatürk Üniversitesi Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, No. 1 | [ Link ](https://www.mbkaya.com/hukuk/cahit-arf-makine-dusunebilir-mi-orjinal.pdf) |
 | **Makine Öğrenmesi Algoritmaları** | Makine öğrenmesi algoritmalarını derinlemesine inceleyen kapsamlı bir kaynak - referans kitabıdır. | 978-625-371-882-4 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html) |
