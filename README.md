@@ -35,7 +35,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 5. Prof. Dr. Cemalettin KUBAT, "Yapay Zeka Dijital Sistemler ve Uygulamaları", Papatya Bilim Yayıncılık, İstanbul, 2021. 
 
-6. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". 
+6. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
