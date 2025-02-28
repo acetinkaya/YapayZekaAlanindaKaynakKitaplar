@@ -39,7 +39,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 6. Prof. Dr. Novruz ALLAHVERDİ, "Uzman Sistemler - Bir Yapay Zeka Uygulaması" Atlas Akademik Yayıncılık, 2022.
 
-7. Prof. Dr. Ethem ALPAYDIN, "Uzman Sistemler - Bir Yapay Zeka Uygulaması" Atlas Akademik Yayıncılık, 2022.
+7. Prof. Dr. Ethem ALPAYDIN, "YAPAY ÖĞRENME" Atlas Akademik Yayıncılık, 2022.
 
 8. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
 
