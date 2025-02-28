@@ -43,7 +43,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 8. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
 
-9. François CHOLLET, "Python ile Derin Öğrenme". İstanbul Gelişim Üniversitesi Yayınları, 2023.
+9. François CHOLLET, "Python ile Derin Öğrenme". Buzdağı Yayınevi, 2019.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
