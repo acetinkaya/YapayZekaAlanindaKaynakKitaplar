@@ -26,7 +26,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Yapay Öğrenme** |  Yapay Öğrenme kavramını ve öreklerini bilgisayarların örnek veri ya da geçmiş deneyimi kullanarak bir ölçüte göre başarımını hesaplamasını anlatan bir referans kaynaktır. | 978-605-4238-49-1 | Boğaziçi Üniversitesi Yayınevi | [ Link ](https://www.amazon.com.tr/YAPAY-%C3%96%C4%9ERENME-Kolektif/dp/6054238493)| 7 |
 | **Bulanık Mantık ve Python Uygulamaları** | YZ Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak kitaptır. |  978-605-4827-98-5 | IGU Yayınları	| [ Link ](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987) | 8 |
 | **Python ile Derin Öğrenme** | Derin Öğrenme ile yapay zeka arasındaki konuları python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-69024-2-0 | Buzdağı Yayınevi | [ Link ](https://buzdagiyayinevi.com/python-ile-derin-ogrenme/) | 9 |
-| **Python ile Derin Öğrenme** | Derin Öğrenme ile yapay zeka arasındaki konuları python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-06248-2-3 | Buzdağı Yayınevi | [ Link ](https://buzdagiyayinevi.com/python-ile-derin-ogrenme/) | 10 |
+| **Python ile Derin Öğrenme** | Derin Öğrenme ile yapay zeka arasındaki konuları python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-06248-2-3 | Buzdağı Yayınevi | [ Link ](https://www.buzdagikitabevi.com/scikit-learn-keras-ve-tensorflow-ile-uygulamali-makine-ogrenmesi-renkli-baski---sivama-cilt-kapakli) | 10 |
 
 1. Ord. Prof. Dr. Cahit ARF,  "Makine düşünebilir mi ve nasıl düşünebilir", Atatürk Üniversitesi-Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, (1), 91-103. Erzurum, 1959.
 
