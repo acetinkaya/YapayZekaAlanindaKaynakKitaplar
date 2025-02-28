@@ -45,6 +45,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 9. François CHOLLET, "Python ile Derin Öğrenme". Buzdağı Yayınevi, 2019.
 
+10. Aurelien GERON, 
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
