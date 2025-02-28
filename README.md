@@ -23,7 +23,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **100 Sayfada Makine Öğrenmesi Kitabı** | YZ Makine Öğrenmesi alanında veri bilimi konulu önemli bir referans kaynaktır. |  978-975-6797-94-2 | Papatya Yayıncılık	| [ Link ](https://www.amazon.com.tr/100-Sayfada-Makine-%C3%96%C4%9Frenmesi-Kitab%C4%B1/dp/6059594778) | 4 |
 | **Yapay Zeka Dijital Sistemler ve Uygulamaları** | YZ dahilinde çetitli alanlarda kapsamlı anlatımla önemli bir kaynak - referans kitabıdır. |  978-605-9594-88-2 | Papatya Yayıncılık	| [ Link ](https://www.tdk.com.tr/yapay-zeka-dijital-sistemler-ve-uygulamalari_68620.html) | 5 |
 | **Uzman Sistemler: bir yapay zeka uygulaması** | YZ Uzman Sistemler konusunda önemli bir kaynak - referans kitabıdır. |  975-6574-11-9 | Atlas Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/uzman-sistemler-bir-yapay-zeka-uygulamasi-2127.html) | 6 |
-| **Yapay Öğrenme** |  Yapay Öğrenme kavramını ve öreklerini bilgisayarların örnek veri ya da 
+| **Yapay Öğrenme** |  Yapay Öğrenme kavramını ve öreklerini bilgisayarların örnek veri ya da geçmiş deneyimi kullanarak bir ölçüte göre
 | **Bulanık Mantık ve Python Uygulamaları** | YZ Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak. |  978-605-4827-98-5 | IGU Yayınları	| [ Link ](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987) | 7 |
 
 
