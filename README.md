@@ -31,7 +31,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)** | YZ Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar konularını anlatan kaynak kitaptır. | 978-975-02-1696-1 | Seçkin Yayıncılık | [ Link ](https://www.seckin.com.tr/kitap/928812683) | 12 |
 | **Yapay Zeka Optimizasyon Algoritmaları** | YZ optimizasyon algoritmalarını anlatan kaynak kitaptır. | 978-605-133-764-7 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/yapay-zeka-optimizasyon-algoritmalari-2129.html) | 13 |
 | **Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları** | YZ Makine Öğrenmesi algoritmalarını uygulamalaı anlatan kaynak kitaptır. | 978-625-427-443-5 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/denetimli-makine-ogrenmesi-algoritmalari-r-ve-python-uygulamalari-18918.html) | 14 |
-| **Matlab Uygulamalı Yapay Sinir Ağları** | 
+| **Matlab Uygulamalı Yapay Sinir Ağları** | YSA Sayısal Örnekleri, MATLAB uygulamaları ve Yazılım örneklerini anlatan kaynak kitaptır. | 
 
 
 ---
