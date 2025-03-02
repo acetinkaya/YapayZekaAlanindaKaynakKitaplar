@@ -53,6 +53,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 12. Prof. Dr. Çetin ELMAS, "Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)", Seçkin Yayıncılık,  2010.
 
+13. Derviş KARABOĞA, "Yapay Zeka Optimizasyon Algoritmaları", Nobel Akademik Yayıncılık, 2020.
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
