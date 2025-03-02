@@ -51,7 +51,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 11. Mehmet Hakan SATMAN, "Genetik Algoritmalar", Türkmen Kİtapevi, 2016.
 
-12. Prof. Dr. Çetin ELMAS, "Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)", Seçkin Yayıncılık,  2010.
+12. Prof. Dr. Çetin ELMAS, "Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)", Seçkin Yayıncılık, Ankara, 2010.
 
 13. Derviş KARABOĞA, "Yapay Zeka Optimizasyon Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2020.
 
