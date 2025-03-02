@@ -49,7 +49,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 10. Aurelien GERON, "Scikit-Learn, Keras ve Tensorflow ile Uygulamalı Makine Öğrenmesi", Buzdağı Yayınevi, 2021.
 
-11. Mehmet Hakan SATMAN, "Genetik Algoritmalar", Türkmen Kİtapevi, 
+11. Mehmet Hakan SATMAN, "Genetik Algoritmalar", Türkmen Kİtapevi, 2016.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
