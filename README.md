@@ -11,6 +11,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak** paylaşılabilir.
 
 ## Bu kitapları çeşitli kitapçılardan ve yayınevlerinden temin edilebilirsiniz.
+
 ---
 
 ## 📖 Önerilen Kaynak Kitaplar
@@ -32,7 +33,6 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Yapay Zeka Optimizasyon Algoritmaları** | YZ optimizasyon algoritmalarını anlatan kaynak kitaptır. | 978-605-133-764-7 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/yapay-zeka-optimizasyon-algoritmalari-2129.html) | 13 |
 | **Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları** | YZ Makine Öğrenmesi algoritmalarını uygulamalaı anlatan kaynak kitaptır. | 978-625-427-443-5 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/denetimli-makine-ogrenmesi-algoritmalari-r-ve-python-uygulamalari-18918.html) | 14 |
 | **Matlab Uygulamalı Yapay Sinir Ağları** | YSA Sayısal Örnekleri, MATLAB uygulamaları ve Yazılım örneklerini anlatan kaynak kitaptır. | 978-975-02-7055-0 |  Seçkin Yayıncılık | [ Link ](https://www.seckin.com.tr/kitap/788868411) | 15 |
-
 
 ---
 
