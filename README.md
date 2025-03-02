@@ -28,6 +28,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Python ile Derin Öğrenme** | Derin Öğrenme konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-69024-2-0 | Buzdağı Yayınevi | [ Link ](https://buzdagiyayinevi.com/python-ile-derin-ogrenme/) | 9 |
 | **Scikit-Learn, Keras ve TensorFlow ile Uygulamalı Makine Öğrenmesi** | Makine Öğrenmesi konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-06248-2-3 | Buzdağı Yayınevi | [ Link ](https://www.buzdagikitabevi.com/scikit-learn-keras-ve-tensorflow-ile-uygulamali-makine-ogrenmesi-renkli-baski---sivama-cilt-kapakli) | 10 |
 
+
 1. Ord. Prof. Dr. Cahit ARF,  "Makine düşünebilir mi ve nasıl düşünebilir", Atatürk Üniversitesi-Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, (1), 91-103. Erzurum, 1959.
 
 2. Prof. Dr. Murat GÖK, "Makine Öğrenmesi Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2024.
@@ -47,6 +48,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 9. François CHOLLET, "Python ile Derin Öğrenme". Buzdağı Yayınevi, 2019.
 
 10. Aurelien GERON, "Scikit-Learn, Keras ve Tensorflow ile Uygulamalı Makine Öğrenmesi", Buzdağı Yayınevi, 2021.
+
+11. Mehmet Hakan SATMAN, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
