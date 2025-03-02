@@ -62,7 +62,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 14. Prof. Dr. Nuran Bayram ARLI, Prof. Dr. Sevda GÜRSAKAL, Doç. Dr. Melih ENGİN, "Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları", Nobel Akademik Yayıncılık, Ankara, 2022.
 
-15. Prof. Dr. Çoşkun HAMZAÇEBİ, 
+15. Prof. Dr. Çoşkun HAMZAÇEBİ, "Matlab Uygulamalı Yapay Sinir Ağları"
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
