@@ -51,7 +51,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 11. Mehmet Hakan SATMAN, "Genetik Algoritmalar", Türkmen Kİtapevi, 2016.
 
-12. Prof. Dr. Çetin ELMAS, 
+12. Prof. Dr. Çetin ELMAS, "Yapay Zeka Uygulamaları 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
