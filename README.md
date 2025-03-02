@@ -30,8 +30,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Genetik Algoritmalar** | Genetik Algoritmalar konularını anlatan kaynak kitaptır. | 978-605-4749-66-9 | Türkmen Kİtapevi | [ Link ](https://www.amazon.com.tr/Genetik-Algoritmalar-Mehmet-Hakan-Satman/dp/6054749668) | 11 |
 | **Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)** | YZ Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar konularını anlatan kaynak kitaptır. | 978-975-02-1696-1 | Seçkin Yayıncılık | [ Link ](https://www.seckin.com.tr/kitap/928812683) | 12 |
 | **Yapay Zeka Optimizasyon Algoritmaları** | YZ optimizasyon algoritmalarını anlatan kaynak kitaptır. | 978-605-133-764-7 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/yapay-zeka-optimizasyon-algoritmalari-2129.html) | 13 |
-| **Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları** | YZ Makine Öğrenmesi algoritmalarını uygulamalaı anlatan kaynak kitaptır. | 
-
+| **Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları** | YZ Makine Öğrenmesi algoritmalarını uygulamalaı anlatan kaynak kitaptır. | 978-625-427-443-5 | Nobel Akademik Yayıncılık | 
 ---
 
 1. Ord. Prof. Dr. Cahit ARF,  "Makine düşünebilir mi ve nasıl düşünebilir", Atatürk Üniversitesi-Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, (1), 91-103. Erzurum, 1959.
