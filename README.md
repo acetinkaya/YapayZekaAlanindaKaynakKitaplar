@@ -66,6 +66,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 15. Prof. Dr. Çoşkun HAMZAÇEBİ, "Matlab Uygulamalı Yapay Sinir Ağları", Seçkin Yayıncılık, Ankara, 2021.
 
+16. Prof. Dr. Erol EĞRİOĞLU, 
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
