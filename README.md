@@ -27,7 +27,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Bulanık Mantık ve Python Uygulamaları** | YZ Bulanık Mantık konusunda python programlama dili ile uygulamali bir kaynak kitaptır. |  978-605-4827-98-5 | IGU Yayınları	| [ Link ](https://www.amazon.com.tr/Bulan%C4%B1k-Mant%C4%B1k-ve-Python-Uygulamalar%C4%B1/dp/6054827987) | 8 |
 | **Python ile Derin Öğrenme** | Derin Öğrenme konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-69024-2-0 | Buzdağı Yayınevi | [ Link ](https://buzdagiyayinevi.com/python-ile-derin-ogrenme/) | 9 |
 | **Scikit-Learn, Keras ve TensorFlow ile Uygulamalı Makine Öğrenmesi** | Makine Öğrenmesi konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-06248-2-3 | Buzdağı Yayınevi | [ Link ](https://www.buzdagikitabevi.com/scikit-learn-keras-ve-tensorflow-ile-uygulamali-makine-ogrenmesi-renkli-baski---sivama-cilt-kapakli) | 10 |
-
+| **Python ile Derin Öğrenme** | Derin Öğrenme konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-69024-2-0 | Buzdağı Yayınevi | [ Link ](https://buzdagiyayinevi.com/python-ile-derin-ogrenme/) | 11 |
 
 1. Ord. Prof. Dr. Cahit ARF,  "Makine düşünebilir mi ve nasıl düşünebilir", Atatürk Üniversitesi-Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, (1), 91-103. Erzurum, 1959.
 
