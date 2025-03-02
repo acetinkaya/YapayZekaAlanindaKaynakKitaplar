@@ -4,7 +4,7 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-Bu repo, **Yapay Zeka (YZ), Makine Öğrenmesi (MÖ), Derin Öğrenme (DÖ), Doğal Dil İşleme (DDİ) ve Genetik Algoritma (GA)** alanlarında **temel ve ileri seviye** kaynak kitapları içermektedir.
+Bu repo, **Yapay Zeka (YZ), Makine Öğrenmesi (MÖ), Derin Öğrenme (DÖ), Bulanık Mantık (BM) ve Genetik Algoritma (GA)** alanlarında **temel ve ileri seviye** kaynak kitapları içermektedir.
 
 Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı kolaylaştırmayı amaçlamaktadır.
 
