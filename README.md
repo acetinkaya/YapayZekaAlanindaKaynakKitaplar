@@ -65,6 +65,6 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-📌 Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur. 
+📌 Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur. İçeriğinde yer alan kitaplar, doğrudan yayınevleri ve kitapçılar aracılığıyla temin edilebilir. 
 
 📢 **Not:** Bu liste yalnızca **eğitim ve akademik amaçlıdır**. Herhangi bir reklam veya sponsorluk içermemektedir.
