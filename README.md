@@ -67,4 +67,4 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 📌 Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur. İçeriğinde yer alan kitaplar, doğrudan yayınevleri ve kitapçılar aracılığıyla temin edilebilir. Kolay erişim sağlamak adına, resmi satış noktalarının bağlantıları eklenmiştir.
 
-📢 **Not:** Bu liste yalnızca **eğitim ve akademik amaçlıdır**. Herhangi bir reklam veya sponsorluk içermemektedir.
+📢 **Önemli Not:** Bu liste, yapay zeka alanında kaynak paylaşımı amacıyla hazırlanmıştır. 
