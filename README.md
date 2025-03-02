@@ -55,7 +55,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 13. Derviş KARABOĞA, "Yapay Zeka Optimizasyon Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2020.
 
-14. Prof. Dr. Nuran Bayram ARLI, Prof. Dr. Sevda GÜRSAKAL, 
+14. Prof. Dr. Nuran Bayram ARLI, Prof. Dr. Sevda GÜRSAKAL, Doç. Dr. Melih ENGİN, 
 
 15. 
 
