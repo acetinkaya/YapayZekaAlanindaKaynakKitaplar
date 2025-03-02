@@ -28,7 +28,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Python ile Derin Öğrenme** | Derin Öğrenme konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-69024-2-0 | Buzdağı Yayınevi | [ Link ](https://buzdagiyayinevi.com/python-ile-derin-ogrenme/) | 9 |
 | **Scikit-Learn, Keras ve TensorFlow ile Uygulamalı Makine Öğrenmesi** | Makine Öğrenmesi konularını python programlama dili ile anlatan bir kaynak kitaptır. | 978-605-06248-2-3 | Buzdağı Yayınevi | [ Link ](https://www.buzdagikitabevi.com/scikit-learn-keras-ve-tensorflow-ile-uygulamali-makine-ogrenmesi-renkli-baski---sivama-cilt-kapakli) | 10 |
 | **Genetik Algoritmalar** | Genetik Algoritmalar konularını anlatan kaynak kitaptır. | 978-605-4749-66-9 | Türkmen Kİtapevi | [ Link ](https://www.amazon.com.tr/Genetik-Algoritmalar-Mehmet-Hakan-Satman/dp/6054749668) | 11 |
-| **Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)** | YZ konularını anlatan kaynak kitaptır. | 978-605-4749-66-9 | Türkmen Kİtapevi | [ Link ](https://www.amazon.com.tr/Genetik-Algoritmalar-Mehmet-Hakan-Satman/dp/6054749668) | 12 |
+| **Yapay Zeka Uygulamaları (Yapay Sinir Ağı, Bulanık Mantık, Sinirsel Bulanık Mantık, Genetik Algoritmalar)** | YZ konularını anlatan kaynak kitaptır. | 978-975-02-1696-1 | Türkmen Kİtapevi | [ Link ](https://www.amazon.com.tr/Genetik-Algoritmalar-Mehmet-Hakan-Satman/dp/6054749668) | 12 |
 
 
 1. Ord. Prof. Dr. Cahit ARF,  "Makine düşünebilir mi ve nasıl düşünebilir", Atatürk Üniversitesi-Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, (1), 91-103. Erzurum, 1959.
