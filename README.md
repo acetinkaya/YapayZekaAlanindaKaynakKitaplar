@@ -55,7 +55,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 13. Derviş KARABOĞA, "Yapay Zeka Optimizasyon Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2020.
 
-14. Prof. Dr. Nuran Bayram ARLI, Prof. Dr. Sevda GÜRSAKAL, Doç. Dr. Melih ENGİN, "Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları", 
+14. Prof. Dr. Nuran Bayram ARLI, Prof. Dr. Sevda GÜRSAKAL, Doç. Dr. Melih ENGİN, "Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları", Nobel Akademik Yayıncılık, Ankara, 2022.
+
 15. 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
