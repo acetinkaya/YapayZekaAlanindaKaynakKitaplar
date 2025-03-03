@@ -70,7 +70,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 17. Dr. Atınç YILMAZ, Öğr. Gör. Umut KAYA, "Derin Öğrenme", Kodlab Yayınları, İstanbul, 2020.
 
-18. Dr. Zeynep ÜNAL, "Derin Öğrenme",  Nobel Akademik Yayıncılık, 
+18. Dr. Zeynep ÜNAL, "Derin Öğrenme",  Nobel Akademik Yayıncılık, Ankara, 2020.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
