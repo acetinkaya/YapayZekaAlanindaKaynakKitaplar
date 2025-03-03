@@ -68,7 +68,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 16. Prof. Dr. Erol EĞRİOĞLU, Doç. Dr. Ufuk YOLCU, Doç. Dr. Eren BAŞ, "YAPAY SİNİR AĞLARI - Öngörü ve Tahmin Uygulamaları", Nobel Akademik Yayıncılık, Ankara, 2019.
 
-17. Dr. Atınç YILMAZ, Öğr. Gör. Umut KAYA, "Derin Öğrenme", 
+17. Dr. Atınç YILMAZ, Öğr. Gör. Umut KAYA, "Derin Öğrenme", Kodlab Yayınları, İstanbul, 2020.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
