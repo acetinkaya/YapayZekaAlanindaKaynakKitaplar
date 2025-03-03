@@ -72,6 +72,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 18. Dr. Zeynep ÜNAL, "Derin Öğrenme",  Nobel Akademik Yayıncılık, Ankara, 2020.
 
+19. Dr. Fatma SÖNMEZ ÇAKIR, 
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
