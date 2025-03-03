@@ -72,7 +72,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 18. Dr. Zeynep ÜNAL, "Derin Öğrenme",  Nobel Akademik Yayıncılık, Ankara, 2020.
 
-19. Dr. Fatma SÖNMEZ ÇAKIR, 
+19. Dr. Fatma SÖNMEZ ÇAKIR, "Yapay Sinir Ağları - Matlab kodları ve Matlab Toolbox Çözümleri", 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
