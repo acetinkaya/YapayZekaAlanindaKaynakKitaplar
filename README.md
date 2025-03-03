@@ -78,6 +78,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 21. Prof. Dr. Engin SORHUN, "Python ile Makine Öğrenmesi", Abaküs Kitap Yayın, İstanbul, 2022.
 
+22. 
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
