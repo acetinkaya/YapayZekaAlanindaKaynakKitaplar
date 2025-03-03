@@ -76,6 +76,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 20. Dr. Ahmet GÖÇEN, "Yapay Zeka Kavramlarına Giriş", Gece Kitaplığı Yayınları, Ankara, 2020
 
+21. Prof. Dr. Engin SORHUN, ""
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
