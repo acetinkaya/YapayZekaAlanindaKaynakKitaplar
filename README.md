@@ -1,6 +1,6 @@
 # 🚀 Yapay Zeka Alanında Kaynak Kitaplar
 
-## 📚 Yapay Zeka ve Makine Öğrenmesi Kaynak Kitapları
+## 📚 Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kaynak Kitapları
 
 ## 📌 **Bu Reponun Amacı:**
 
