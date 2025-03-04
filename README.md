@@ -81,7 +81,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 22. Doç. Dr. Emrah AYDEMİR, "Uygulamalar ile Python ve Yapay Zeka", Nobel Akademik Yayıncılık, Ankara, 2023.
 
-23. Engin BOZABA, "Python ile Uçtan Uca Veri Bilimi", Dikey Eksen Yayın, İstanbul, 2022.
+23. Engin BOZABA, "Python ile Uçtan Uca Veri Bilimi", Dikey Eksen Yayıncılık, İstanbul, 2022.
 
 24. 
 
