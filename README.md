@@ -34,7 +34,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Denetimli Makine Öğrenmesi Algoritmaları - R VE PYTHON Uygulamaları** | YZ Makine Öğrenmesi algoritmalarını uygulamalaı anlatan kaynak kitaptır. | 978-625-427-443-5 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/denetimli-makine-ogrenmesi-algoritmalari-r-ve-python-uygulamalari-18918.html) | 14 |
 | **Matlab Uygulamalı Yapay Sinir Ağları** | YSA Sayısal Örnekleri, MATLAB uygulamaları ve Yazılım örneklerini anlatan kaynak kitaptır. | 978-975-02-7055-0 |  Seçkin Yayıncılık | [ Link ](https://www.seckin.com.tr/kitap/788868411) | 15 |
 | **YAPAY SİNİR AĞLARI - Öngörü ve Tahmin Uygulamaları** | Yapay Sinir Ağları konusunda kapsamlı kaynak kitapdır. | 978-605-033-153-0 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/yapay-sinir-aglari-ongoru-ve-tahmin-uygulamalari_15839.html) | 16 |
-| **Python ile Makine Öğrenmesi** | 
+| **Python ile Makine Öğrenmesi** | Makine Öğrenmesi Alanında python uygulamalı kaynak kitapdır. | 978-625-7407-00-7 | 
 | **Uygulamalar ile Python ve Yapay Zeka** | YZ Alanında python uygulamalı kaynak kitapdır. | 978-625-439-682-3 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/uygulamalar-ile-python-ve-yapay-zek-17501.html) | 22 |
 | **Python ile Uçtan Uca Veri Bilimi** | Veri Bilimi Alanında python uygulamalı kaynak kitapdır. | 978-605-4898-93-0 | Dikey Eksen Yayıncılık | [ Link ](https://www.dikeyeksen.com/products/python-ile-uctan-uca-veri-bilimi)| 23 |
 
