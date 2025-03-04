@@ -82,6 +82,8 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 23. Engin BOZABA, "Python ile Uçtan Uca Veri Bilimi", Dikey Eksen Yayın, İstanbul, 2022.
 
+24. 
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
