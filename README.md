@@ -6,7 +6,7 @@
 
 **Yapay Zeka (YZ), Makine Öğrenmesi (MÖ), Derin Öğrenme (DÖ), Bulanık Mantık (BM), Uzman Sistemler (US) ve Genetik Algoritma (GA)** alanlarında **temel ve ileri seviye** kaynak kitapları içermektedir.
 
-Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı kolaylaştırmayı amaçlamaktadır.
+Bu Öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı kolaylaştırmayı amaçlamaktadır.
 
 ## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak** paylaşılabilir.
 
