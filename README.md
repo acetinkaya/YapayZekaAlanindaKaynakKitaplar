@@ -37,7 +37,7 @@ Bu repo, öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | **Derin Öğrenme** | Derin Öğrenme alanında kaynak eğitim kitapdır. | 978-605-2118-39-9 | Kolab Yayıncılık | [ Link ](https://www.kodlab.com/muhendislik/96-derin-ogrenme-9786052118399.html) | 17 |
 | **Derin Öğrenme** | Derin Öğrenme alanında kaynak eğitim kitapdır. | 978-625-7932-14-1 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/kitap_15947.html) | 18 |
 | **Yapay Sinir Ağları - Matlab kodları ve Matlab Toolbox Çözümleri** | YSA alanından matlab uygulamalı kaynak kitapdır. | 978-605-7928-12-2 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/yapay-sinir-aglari-matlab-kodlari-ve-matlab-toolbox-cozumleri-15002.html) | 19 |
-| **Yapay Zeka Kavramlarına Giriş** | Yapay zeka kavramlarına kaynak eğitim kitapdır. | 
+| **Yapay Zeka Kavramlarına Giriş** | Yapay zeka kavramlarına kaynak eğitim kitapdır. | 978-6257716093 | Gece Kitaplığı Yayınları | 
 | **Python ile Makine Öğrenmesi** | Makine Öğrenmesi Alanında python uygulamalı kaynak kitapdır. | 978-625-7407-00-7 | Abaküs Kitap Yayın | [ Link ](https://www.abakuskitap.com/urun/python-ile-makine-ogrenmesi) | 21 |
 | **Uygulamalar ile Python ve Yapay Zeka** | YZ Alanında python uygulamalı kaynak kitapdır. | 978-625-439-682-3 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/uygulamalar-ile-python-ve-yapay-zek-17501.html) | 22 |
 | **Python ile Uçtan Uca Veri Bilimi** | Veri Bilimi Alanında python uygulamalı kaynak kitapdır. | 978-605-4898-93-0 | Dikey Eksen Yayıncılık | [ Link ](https://www.dikeyeksen.com/products/python-ile-uctan-uca-veri-bilimi)| 23 |
